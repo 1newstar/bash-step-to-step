@@ -694,11 +694,11 @@ export可以把bash的变量向下带入子bash(即子bash中可以使用父bash
 
 ## 十二. 命令详解
 
-- [ ] basic
-- [ ] file
-- [ ] text
-- [ ] directory
-- [ ] sys
+- [x] basic
+- [x] file
+- [x] text
+- [x] directory
+- [x] sys
 
 [1]:./linux-user-group-file.md
 [2]:./dir/array.sh
